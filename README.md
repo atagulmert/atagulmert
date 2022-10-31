@@ -4,7 +4,7 @@ Hi 👋 I'm Mert Atagül
 Machine Learning Engineer
 -------------------------
 
-I'm a ML Engineer with bachelor's in computer engineering and master's in data science. I've been working in the field of machine learning and computer vision for more than 2 years now. Previously worked on robotics as well. Currently working on biometrics and OCR solutions. Trying to learn more on MLOps.
+I'm a ML Engineer with bachelor's in computer engineering and master's in data science. I've been working in the field of machine learning and computer vision for more than 2 years now. Previously worked on robotics as well. Trying to learn more on MLOps.
 
 * 🌍  I'm based in Istanbul, Turkey.
 * ✉️  You can contact me at [atagulmert@gmail.com](mailto:atagulmert@gmail.com)
